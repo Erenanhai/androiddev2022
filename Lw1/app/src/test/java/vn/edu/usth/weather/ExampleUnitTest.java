@@ -1,4 +1,4 @@
-package com.example.USTHWeather;
+package vn.edu.usth.weather;
 
 import org.junit.Test;
 

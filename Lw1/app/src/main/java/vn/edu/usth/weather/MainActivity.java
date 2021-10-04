@@ -1,4 +1,4 @@
-package com.example.USTHWeather;
+package vn.edu.usth.weather;
 
 import androidx.appcompat.app.AppCompatActivity;
 
